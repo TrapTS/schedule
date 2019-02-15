@@ -1,0 +1,20 @@
+{
+  "name": "@trapts/schedule",
+  "version": "1.0.0",
+  "description": "Trap schedule loader.",
+  "scripts": {
+    "format": "prettier --write \"**/*.ts\""
+  },
+  "repository": "https://github.com/TrapTS/schedule",
+  "author": "AlfieriChou <alfierichou@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cron": "^1.6.0",
+    "@types/node": "^11.9.4",
+    "cron": "^1.6.0",
+    "dir_filenames": "^1.0.6",
+    "prettier": "^1.16.4",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  }
+}
