@@ -1,10 +1,10 @@
 {
   "name": "@trapts/schedule",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trap schedule loader.",
   "scripts": {
     "format": "prettier --write \"**/*.ts\"",
-    "tsc": "tsc -p tsconfig.json"
+    "build": "tsc -p tsconfig.json"
   },
   "repository": "https://github.com/TrapTS/schedule",
   "author": "AlfieriChou <alfierichou@gmail.com>",
