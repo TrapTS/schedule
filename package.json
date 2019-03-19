@@ -1,6 +1,6 @@
 {
   "name": "@trapts/schedule",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Trap schedule loader.",
   "scripts": {
     "format": "prettier --write \"**/*.ts\"",

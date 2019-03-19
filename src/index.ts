@@ -6,7 +6,7 @@ type ClassSchedule = (path: string) => Promise<void>
 export interface Schedule {
   disable?: boolean
   cron: string
-  env: string | string[]
+  env?: string | string[]
   timeZone: string
 }
 
